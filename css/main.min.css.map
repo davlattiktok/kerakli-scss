@@ -1,0 +1,15 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "../scss/main.scss",
+        "../scss/_fonts.scss",
+        "../scss/_general.scss",
+        "../scss/all-block/_all-block.scss",
+        "../scss/all-block/_asia.scss",
+        "../scss/all-block/_container.scss",
+        "../scss/all-block/_header.scss"
+    ],
+    "names": [],
+    "file": "main.min.css"
+}
